@@ -6,4 +6,5 @@
 | feature-engineering-01       | 特征工程1：EDA                                                                             |
 | feature-engineering-basic    | 特征工程2：基础特征                                                                         |
 | feature-engineering-02-click | 特征工程2：构造点击率特征，16个新特征                                                          |
-|                              |                                                                                          |
+| model                        | xgb_all,lgb_all,xgb_day7,lag_day7 全量与第七天分开跑                                        |
+| result                       | 特征重要性结果                                                                              |
